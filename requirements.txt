@@ -1,0 +1,5 @@
+streamlit
+gtts
+google-generativeai
+python-dotenv
+Pillow
